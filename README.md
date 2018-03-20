@@ -14,5 +14,5 @@ The Stryd/log package supports following basic logging features:
 Update
 -------
 This library is only used in the development phase of projects. Once the
-project is mature enough to go to product env, we use Stackdriver logging
-library to aggregate logs to Google Cloud console.
+project is mature enough to go to product env, we use [Stackdriver logging
+library](https://github.com/stryd/cloudlog) to aggregate logs to Google Cloud console.
